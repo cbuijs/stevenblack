@@ -1,5 +1,5 @@
 ! Title: SOCIAL-FAKENEWS-GAMBLING-PORN Allow/Block List (DNS)
-! Version: 1773737576
+! Version: 1773738036
 ||0-act.channel.facebook.com^
 ||0-edge-chat.facebook.com^
 ||0.nextyourcontent.com^

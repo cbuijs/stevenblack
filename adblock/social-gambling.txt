@@ -1,5 +1,5 @@
 ! Title: SOCIAL-GAMBLING Allow/Block List (DNS)
-! Version: 1773737587
+! Version: 1773738047
 ||0-act.channel.facebook.com^
 ||0-edge-chat.facebook.com^
 ||0.nextyourcontent.com^
