@@ -1,5 +1,5 @@
 ! Title: SOCIAL-FAKENEWS-GAMBLING Allow/Block List (DNS)
-! Version: 1773736937
+! Version: 1773737059
 ||0-act.channel.facebook.com^
 ||0-edge-chat.facebook.com^
 ||0.nextyourcontent.com^
