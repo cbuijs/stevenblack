@@ -1,5 +1,5 @@
 ! Title: GAMBLING Allow/Block List (DNS)
-! Version: 1773739982
+! Version: 1773771542
 ||007win.com^
 ||007win.org^
 ||007win.shop^
@@ -133,6 +133,7 @@
 ||388bet.vin^
 ||388bet.vip^
 ||3bet.biz^
+||3bet.so^
 ||3bet.win^
 ||3kingclub.com^
 ||444sports.com^
@@ -432,6 +433,7 @@
 ||bacty88.com^
 ||balkanbet.co.rs^
 ||ball88.com^
+||ball88.to^
 ||ballebaazi.com^
 ||bamasportsbook.com^
 ||bananajackpot.com^
@@ -1436,6 +1438,7 @@
 ||gemwin.my^
 ||gemwin.page^
 ||gemwin.to^
+||gemwin.tv^
 ||gemwin.vip^
 ||gen88.com^
 ||genesiscasino.com^
@@ -1529,6 +1532,7 @@
 ||hay8811.com^
 ||hay8822.com^
 ||haywin.ac^
+||haywin.space^
 ||haywin.store^
 ||haywin.vip^
 ||haywinvip.online^
@@ -3006,6 +3010,7 @@
 ||sun6.win^
 ||sunbets.co.uk^
 ||sunwin.club^
+||sunwin.id^
 ||sunwin.lt^
 ||sunwin.moi^
 ||sunwin.pro^
@@ -3609,6 +3614,7 @@
 ||win79.im^
 ||win79.live^
 ||win79.men^
+||win79.moi^
 ||win79.pro^
 ||win79.site^
 ||win79.vip^
@@ -3738,6 +3744,7 @@
 ||zo88.vip^
 ||zodiacu.com^
 ||zoplay.top^
+||zowin.bh^
 ||zowin.sh^
 ||zowin.sx^
 ||zowin.tv^
