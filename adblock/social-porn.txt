@@ -1,5 +1,5 @@
 ! Title: SOCIAL-PORN Allow/Block List (DNS)
-! Version: 1773737071
+! Version: 1773737178
 ||0-act.channel.facebook.com^
 ||0-edge-chat.facebook.com^
 ||0.nextyourcontent.com^

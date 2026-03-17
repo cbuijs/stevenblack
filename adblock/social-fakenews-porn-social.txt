@@ -1,5 +1,5 @@
 ! Title: SOCIAL-FAKENEWS-PORN-SOCIAL Allow/Block List (DNS)
-! Version: 1773737061
+! Version: 1773737168
 ||0-act.channel.facebook.com^
 ||0-edge-chat.facebook.com^
 ||0.nextyourcontent.com^
