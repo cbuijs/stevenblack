@@ -1,5 +1,5 @@
 ! Title: SOCIAL-FAKENEWS Allow/Block List (DNS)
-! Version: 1773737171
+! Version: 1773737582
 ||0-act.channel.facebook.com^
 ||0-edge-chat.facebook.com^
 ||0.nextyourcontent.com^
