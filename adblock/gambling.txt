@@ -1,5 +1,5 @@
 ! Title: GAMBLING Allow/Block List (DNS)
-! Version: 1775024769
+! Version: 1775063943
 ||007win.com^
 ||007win.org^
 ||007win.shop^
@@ -33,6 +33,8 @@
 ||11betvnd.com^
 ||11wickets.com^
 ||11win.mobi^
+||11win.mx^
+||11win.net^
 ||11zalo.com^
 ||123b.bet^
 ||123b.com^
@@ -326,7 +328,9 @@
 ||9b992.com^
 ||9bet.mobi^
 ||9bet.net^
+||9bet.rest^
 ||9bet.win^
+||9bet.world^
 ||9e3c.com^
 ||a1casino.com^
 ||a23.com^
@@ -1152,6 +1156,8 @@
 ||dreamz.com^
 ||du88.club^
 ||du88.com^
+||du88.in^
+||du88.info^
 ||du88.pro^
 ||dubaivn.vip^
 ||duckyluck.ag^
@@ -1728,6 +1734,7 @@
 ||i9betapp.win^
 ||i9betdl.com^
 ||i9i9bet.com^
+||i9online.vip^
 ||i9vn.com^
 ||iasbet.com^
 ||ibcbetberry.com^
@@ -1941,7 +1948,9 @@
 ||kbet.com^
 ||kc8.link^
 ||kenhthethao.net^
+||keocopa.vip^
 ||keonhacai-fun88.com^
+||keonhacai.cat^
 ||keonhacai3.com^
 ||keotot.net^
 ||key-drop.com^
@@ -2007,6 +2016,7 @@
 ||ku6110.net^
 ||ku6131.net^
 ||ku777bet.com^
+||ku88.fun^
 ||ku88.pro^
 ||ku88.win^
 ||ku998.net^
@@ -2159,9 +2169,11 @@
 ||lsbet.com^
 ||lsbet690.com^
 ||lt991.com^
+||lu88.ai^
 ||lu88.co^
 ||lu88.com^
 ||lu88.gdn^
+||lu88.kim^
 ||lu88.pro^
 ||luck6.com^
 ||luck8.com^
@@ -2184,6 +2196,7 @@
 ||lucky88.org^
 ||lucky88.top^
 ||lucky88.tv^
+||lucky88.us^
 ||lucky88.vin^
 ||lucky88.win^
 ||lucky88vn.com^
@@ -2236,7 +2249,9 @@
 ||man.vip^
 ||man1.club^
 ||man79.org^
+||man88.la^
 ||man88.net^
+||man88.pl^
 ||man88.pw^
 ||man88.top^
 ||man88.vip^
@@ -2385,6 +2400,9 @@
 ||mu90.com^
 ||mu92.com^
 ||mu922.com^
+||mubet.best^
+||mubet.dev^
+||mubet.sh^
 ||mubet.vip^
 ||multilotto.com^
 ||multipasko.pl^
@@ -3011,6 +3029,7 @@
 ||sunbets.co.uk^
 ||sunwin.club^
 ||sunwin.id^
+||sunwin.inc^
 ||sunwin.lt^
 ||sunwin.moi^
 ||sunwin.pro^
@@ -3078,6 +3097,8 @@
 ||ta88.com^
 ||ta88.me^
 ||ta88.org^
+||ta88.so^
+||ta88.tv^
 ||ta88.vip^
 ||tab.co.nz^
 ||tab.com.au^
@@ -3275,6 +3296,7 @@
 ||trafonline.pl^
 ||trang188vn.com^
 ||trangchu.life^
+||trangkeo.com^
 ||triobet.com^
 ||trochoivuaclub.online^
 ||tructiepdaga.info^
@@ -3286,6 +3308,8 @@
 ||tx1.vip^
 ||tx88.com^
 ||tx88.fun^
+||tx88.fyi^
+||tx88.in^
 ||tx88.top^
 ||tydo88.com^
 ||uberskins.net^
@@ -3388,7 +3412,9 @@
 ||vin777.co^
 ||vin777.work^
 ||vin88.com^
+||vin88.moi^
 ||vin88.net^
+||vin88.sx^
 ||vin88.top^
 ||vin88.tv^
 ||vin88.vin^
