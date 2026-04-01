@@ -1,5 +1,5 @@
 ! Title: GAMBLING Allow/Block List (DNS)
-! Version: 1775024509
+! Version: 1775024650
 ||007win.com^
 ||007win.org^
 ||007win.shop^
