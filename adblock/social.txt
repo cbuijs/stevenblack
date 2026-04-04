@@ -1,5 +1,5 @@
 ! Title: SOCIAL Allow/Block List (DNS)
-! Version: 1775236744
+! Version: 1775323144
 ||0-act.channel.facebook.com^
 ||0-edge-chat.facebook.com^
 ||0.twitter.com^
