@@ -1,5 +1,5 @@
 ! Title: GAMBLING Allow/Block List (DNS)
-! Version: 1776964742
+! Version: 1777051147
 ||007win.com^
 ||007win.org^
 ||007win.shop^
@@ -32,6 +32,7 @@
 ||11bet.win^
 ||11betvnd.com^
 ||11wickets.com^
+||11win.llc^
 ||11win.mobi^
 ||11win.mx^
 ||11win.net^
@@ -136,6 +137,7 @@
 ||388bet.vip^
 ||3bet.biz^
 ||3bet.so^
+||3bet.tech^
 ||3bet.win^
 ||3kingclub.com^
 ||444sports.com^
@@ -437,6 +439,7 @@
 ||bacty88.com^
 ||balkanbet.co.rs^
 ||ball88.com^
+||ball88.fun^
 ||ball88.to^
 ||ballebaazi.com^
 ||bamasportsbook.com^
@@ -477,6 +480,7 @@
 ||bet11888.com^
 ||bet20.bet^
 ||bet2290.com^
+||bet25.dk^
 ||bet2875.com^
 ||bet2earn.net^
 ||bet2win.ag^
@@ -726,6 +730,7 @@
 ||bola88.com^
 ||bom52.club^
 ||bom88.com^
+||bom88.ing^
 ||bom88.net^
 ||bombaybets.eu^
 ||bong88.cam^
@@ -1093,6 +1098,7 @@
 ||dangkyva88.info^
 ||danskespil.dk^
 ||dantoto.dk^
+||daomo.club^
 ||dashbet.com^
 ||dccasino.com^
 ||dealerscasino.com^
@@ -1105,6 +1111,7 @@
 ||debet.fan^
 ||debet.fun^
 ||debet.info^
+||debet.lc^
 ||debet.moi^
 ||debet.net^
 ||debet.so^
@@ -1357,6 +1364,7 @@
 ||five88.sale^
 ||five88.show^
 ||five88.top^
+||five88.vc^
 ||five88.vin^
 ||five88.win^
 ||five88.wine^
@@ -1445,6 +1453,7 @@
 ||gemwin.page^
 ||gemwin.to^
 ||gemwin.tv^
+||gemwin.vc^
 ||gemwin.vip^
 ||gen88.com^
 ||genesiscasino.com^
@@ -1538,6 +1547,8 @@
 ||hay8811.com^
 ||hay8822.com^
 ||haywin.ac^
+||haywin.ai^
+||haywin.my^
 ||haywin.space^
 ||haywin.store^
 ||haywin.vip^
@@ -1549,7 +1560,9 @@
 ||hb8887.com^
 ||hb88vn.co^
 ||hbet.club^
+||hbet.lv^
 ||hbet.net^
+||hbet.pw^
 ||hbet.win^
 ||hcm66.com^
 ||hdbet.com^
@@ -1585,6 +1598,8 @@
 ||hitclub.cafe^
 ||hitclub.com^
 ||hitclub.in^
+||hitclub.lc^
+||hitclub.lt^
 ||hitclub.pro^
 ||hitclub.salon^
 ||hitclub.so^
@@ -2374,6 +2389,7 @@
 ||mpl.live^
 ||mr.bet^
 ||mrgreen.com^
+||mrgreen.dk^
 ||mrjackpotspins.com^
 ||mrmega.com^
 ||mrmobi.com^
@@ -2492,6 +2508,8 @@
 ||nhat.vip^
 ||nhat1.club^
 ||nhat9.vip^
+||nhatvip.ac^
+||nhatvip.is^
 ||nhatvip.mobi^
 ||nhatvip.net^
 ||nhatvip.us^
@@ -2863,6 +2881,7 @@
 ||sin88.mobi^
 ||sin88.mx^
 ||sin88.sx^
+||sin88.tw^
 ||sin88.uk^
 ||sin88.us^
 ||sin88.vip^
@@ -2945,6 +2964,7 @@
 ||son8.club^
 ||speedybet.com^
 ||spela.com^
+||spilnu.dk^
 ||spindipity.com^
 ||sping369.club^
 ||spinit.com^
@@ -3027,6 +3047,7 @@
 ||sun52.tv^
 ||sun6.win^
 ||sunbets.co.uk^
+||sunwin.af^
 ||sunwin.club^
 ||sunwin.id^
 ||sunwin.inc^
@@ -3070,6 +3091,7 @@
 ||sv66vip6.com^
 ||sv88.club^
 ||sv88.com^
+||sv88.in^
 ||sv88.vin^
 ||sv88.vip^
 ||sv88.win^
@@ -3269,6 +3291,8 @@
 ||topcasino.com^
 ||topcasinos.bg^
 ||topcatsports.ag^
+||topclub.casa^
+||topclub.win^
 ||topdoithuong.net^
 ||topgamebai.biz^
 ||topigri.bg^
@@ -3298,6 +3322,7 @@
 ||trangchu.life^
 ||trangkeo.com^
 ||triobet.com^
+||trochoidonclub.online^
 ||trochoivuaclub.online^
 ||tructiepdaga.info^
 ||tt128.net^
@@ -3310,6 +3335,7 @@
 ||tx88.fun^
 ||tx88.fyi^
 ||tx88.in^
+||tx88.llc^
 ||tx88.top^
 ||tydo88.com^
 ||uberskins.net^
@@ -3395,6 +3421,7 @@
 ||vh79.com^
 ||vi68.org^
 ||vibet.com^
+||vic.hair^
 ||vic.win^
 ||vic88.com^
 ||vic88.net^
@@ -3511,7 +3538,9 @@
 ||vstar79.com^
 ||vu88.com^
 ||vu88.de^
+||vu88.in^
 ||vu88.net^
+||vu88.tv^
 ||vua88.app^
 ||vua88.biz^
 ||vua88.club^
@@ -3741,6 +3770,7 @@
 ||yeticasino.com^
 ||yo88.cool^
 ||yo88.is^
+||yo88.pw^
 ||yo88.tv^
 ||yo88.win^
 ||yo88vn.com^
@@ -3771,8 +3801,10 @@
 ||zodiacu.com^
 ||zoplay.top^
 ||zowin.bh^
+||zowin.im^
 ||zowin.sh^
 ||zowin.sx^
 ||zowin.tv^
+||zowin.ws^
 ||zpisportbk.com^
 ! <EOF>
