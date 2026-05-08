@@ -1,5 +1,5 @@
 ! Title: GAMBLING Allow/Block List (DNS)
-! Version: 1778174347
+! Version: 1778260746
 ||007win.com^
 ||007win.org^
 ||007win.shop^
@@ -138,6 +138,7 @@
 ||3bet.biz^
 ||3bet.so^
 ||3bet.tech^
+||3bet.vc^
 ||3bet.win^
 ||3kingclub.com^
 ||444sports.com^
@@ -438,6 +439,7 @@
 ||bachhoa88.com^
 ||bacty88.com^
 ||balkanbet.co.rs^
+||ball88.app^
 ||ball88.com^
 ||ball88.fun^
 ||ball88.to^
@@ -1110,6 +1112,7 @@
 ||debet.cx^
 ||debet.fan^
 ||debet.fun^
+||debet.gs^
 ||debet.info^
 ||debet.lc^
 ||debet.moi^
@@ -1363,6 +1366,7 @@
 ||five88.net^
 ||five88.sale^
 ||five88.show^
+||five88.sx^
 ||five88.top^
 ||five88.vc^
 ||five88.vin^
@@ -1449,6 +1453,7 @@
 ||gem88.com^
 ||gem88.guru^
 ||gem88.win^
+||gemwin.is^
 ||gemwin.my^
 ||gemwin.page^
 ||gemwin.to^
@@ -1602,6 +1607,7 @@
 ||hitclub.lt^
 ||hitclub.pro^
 ||hitclub.salon^
+||hitclub.si^
 ||hitclub.so^
 ||hitclub.top^
 ||hitclub.tv^
@@ -2511,6 +2517,7 @@
 ||nhatvip.ac^
 ||nhatvip.is^
 ||nhatvip.mobi^
+||nhatvip.moi^
 ||nhatvip.net^
 ||nhatvip.us^
 ||nhatvip.vip^
@@ -2561,6 +2568,7 @@
 ||okking.com^
 ||okking.cooking^
 ||okking.org^
+||okvip.fun^
 ||okvip.life^
 ||okvip.pro^
 ||okvip.today^
@@ -2879,6 +2887,7 @@
 ||sin88.me^
 ||sin88.mn^
 ||sin88.mobi^
+||sin88.ms^
 ||sin88.mx^
 ||sin88.sx^
 ||sin88.tw^
@@ -3094,6 +3103,7 @@
 ||sv88.in^
 ||sv88.vin^
 ||sv88.vip^
+||sv88.vu^
 ||sv88.win^
 ||sv88a.com^
 ||sv88r.com^
@@ -3770,6 +3780,7 @@
 ||yeticasino.com^
 ||yo88.cool^
 ||yo88.is^
+||yo88.ml^
 ||yo88.pw^
 ||yo88.tv^
 ||yo88.win^
@@ -3802,6 +3813,7 @@
 ||zoplay.top^
 ||zowin.bh^
 ||zowin.im^
+||zowin.red^
 ||zowin.sh^
 ||zowin.sx^
 ||zowin.tv^

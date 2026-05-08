@@ -1,5 +1,5 @@
 ! Title: FAKENEWS Allow/Block List (DNS)
-! Version: 1778174346
+! Version: 1778260746
 ||100percentfedup.com^
 ||20minutenews.com^
 ||21stcenturywire.com^
@@ -2043,7 +2043,6 @@
 ||wastachnews.com^
 ||waterfilters.news^
 ||waterfordtoday.com^
-||waterfordwhispersnews.com^
 ||waterlooreview.com^
 ||waterlootimes.com^
 ||waterwars.news^
