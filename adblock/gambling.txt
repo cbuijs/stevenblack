@@ -1,5 +1,5 @@
 ! Title: GAMBLING Allow/Block List (DNS)
-! Version: 1779470342
+! Version: 1779556743
 ||007win.com^
 ||007win.org^
 ||007win.shop^
@@ -73,6 +73,7 @@
 ||188thethao.com^
 ||18bet.com^
 ||18luck.pro^
+||18win.net^
 ||1bet.com^
 ||1bet2bet.com^
 ||1eight8.com^
@@ -264,6 +265,8 @@
 ||88bong.net^
 ||88cado.com^
 ||88cado.net^
+||88clb.app^
+||88clb.fit^
 ||88gobet.com^
 ||88new.cc^
 ||88online.live^
@@ -338,7 +341,11 @@
 ||9e3c.com^
 ||a1casino.com^
 ||a23.com^
+||abc8.cm^
+||abc8.cv^
 ||abcislands.ag^
+||abcvip.com^
+||abcvip.in^
 ||ace-skins.com^
 ||acmilan-vwin.com^
 ||action24.com^
@@ -1114,6 +1121,7 @@
 ||debet.cx^
 ||debet.fan^
 ||debet.fun^
+||debet.gd^
 ||debet.gs^
 ||debet.info^
 ||debet.lc^
@@ -1273,6 +1281,7 @@
 ||f8betaa.com^
 ||f8betapp.net^
 ||f8betgg.com^
+||fa88.tel^
 ||fa88.tv^
 ||fa88.win^
 ||fa88vn.live^
@@ -1367,6 +1376,7 @@
 ||five88.biz^
 ||five88.com^
 ||five88.in^
+||five88.lc^
 ||five88.net^
 ||five88.sale^
 ||five88.show^
@@ -1457,6 +1467,7 @@
 ||gem88.com^
 ||gem88.guru^
 ||gem88.win^
+||gemwin.fm^
 ||gemwin.is^
 ||gemwin.my^
 ||gemwin.page^
@@ -1611,6 +1622,7 @@
 ||hitclub.lc^
 ||hitclub.lt^
 ||hitclub.lv^
+||hitclub.pl^
 ||hitclub.pro^
 ||hitclub.salon^
 ||hitclub.si^
@@ -2527,6 +2539,7 @@
 ||nhatvip.moi^
 ||nhatvip.net^
 ||nhatvip.us^
+||nhatvip.vin^
 ||nhatvip.vip^
 ||nightrush.com^
 ||nightwoodbookmakers.co.uk^
@@ -2570,6 +2583,7 @@
 ||offtrackbetting.com^
 ||ohiocasino.com^
 ||ohmbet.com^
+||ok365.org^
 ||okcado.com^
 ||okcado.org^
 ||okking.com^
@@ -2616,6 +2630,7 @@
 ||ooooooo2.com^
 ||opap.gr^
 ||opcrates.com^
+||open88.com^
 ||oppa888.com^
 ||oppa88888888.com^
 ||oppo96.com^
@@ -2777,6 +2792,7 @@
 ||rgames.org^
 ||ricbet.com^
 ||ricbet.win^
+||ricwin.pw^
 ||ridika.com^
 ||rik.bet^
 ||rik.club^
@@ -2896,6 +2912,7 @@
 ||sin88.mobi^
 ||sin88.ms^
 ||sin88.mx^
+||sin88.si^
 ||sin88.sx^
 ||sin88.tw^
 ||sin88.uk^
@@ -3105,6 +3122,7 @@
 ||sv66c.com^
 ||sv66s.com^
 ||sv66vip6.com^
+||sv88.ae^
 ||sv88.club^
 ||sv88.com^
 ||sv88.in^
@@ -3301,6 +3319,7 @@
 ||top88.us^
 ||top88.vip^
 ||top88.vn^
+||top88.voto^
 ||topbet.eu^
 ||topbet.net^
 ||topbet.top^
@@ -3357,6 +3376,8 @@
 ||tx88.llc^
 ||tx88.top^
 ||tydo88.com^
+||u888.cc^
+||u888.id^
 ||uberskins.net^
 ||ubet.com^
 ||ucabet.co^
@@ -3440,6 +3461,7 @@
 ||vh79.com^
 ||vi68.org^
 ||vibet.com^
+||vic.doctor^
 ||vic.hair^
 ||vic.win^
 ||vic88.com^
@@ -3736,6 +3758,7 @@
 ||wymhoki.com^
 ||x1798.com^
 ||x8.club^
+||x8.fit^
 ||x8.games^
 ||x8.mobi^
 ||x88.com^
@@ -3791,6 +3814,7 @@
 ||yo88.is^
 ||yo88.ml^
 ||yo88.pw^
+||yo88.so^
 ||yo88.tv^
 ||yo88.win^
 ||yo88vn.com^
@@ -3804,9 +3828,11 @@
 ||yylive.xyz^
 ||zalomomo.com^
 ||zbet.com^
+||zbet.dev^
 ||zbet.fun^
 ||zbet.me^
 ||zbet.tv^
+||zbet.ws^
 ||zebrabet.com.au^
 ||zenitbet.com^
 ||zet88.com^
@@ -3823,6 +3849,7 @@
 ||zowin.bh^
 ||zowin.im^
 ||zowin.is^
+||zowin.ng^
 ||zowin.red^
 ||zowin.sh^
 ||zowin.sx^
