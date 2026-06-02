@@ -1,5 +1,5 @@
 ! Title: GAMBLING Allow/Block List (DNS)
-! Version: 1780334343
+! Version: 1780420743
 ||007win.com^
 ||007win.org^
 ||007win.shop^
@@ -3348,6 +3348,7 @@
 ||topzo.top^
 ||topzo.vip^
 ||tot88.com^
+||tot88.store^
 ||totalbets.com^
 ||totesport.com^
 ||toto.bg^
