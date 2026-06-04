@@ -1,5 +1,5 @@
 ! Title: GAMBLING Allow/Block List (DNS)
-! Version: 1780507143
+! Version: 1780593542
 ||007win.com^
 ||007win.org^
 ||007win.shop^
@@ -909,6 +909,7 @@
 ||ciwox.com^
 ||clickngamble.ag^
 ||cloudbet.com^
+||cm88.com^
 ||cmd368max.com^
 ||cmd368t.com^
 ||cmdbet.com^
