@@ -1,5 +1,5 @@
 ! Title: GAMBLING Allow/Block List (DNS)
-! Version: 1782839943
+! Version: 1782926343
 ||007win.com^
 ||007win.org^
 ||007win.shop^
@@ -436,8 +436,10 @@
 ||b52.game^
 ||b52.me^
 ||b52.mobi^
+||b52.nu^
 ||b52.vip^
 ||b52.win^
+||b52club.me^
 ||b52d.club^
 ||b52k.club^
 ||b52m.club^
@@ -1196,6 +1198,7 @@
 ||dreamjackpot.com^
 ||dreamvegas.com^
 ||dreamz.com^
+||du88.cafe^
 ||du88.club^
 ||du88.com^
 ||du88.in^
@@ -1497,6 +1500,7 @@
 ||gem88.vet^
 ||gem88.win^
 ||gemwin.cab^
+||gemwin.esq^
 ||gemwin.fm^
 ||gemwin.fyi^
 ||gemwin.ink^
@@ -1604,12 +1608,15 @@
 ||hay88.net^
 ||hay8811.com^
 ||hay8822.com^
+||haybet.ws^
 ||haywin.ac^
 ||haywin.ai^
 ||haywin.my^
 ||haywin.space^
 ||haywin.store^
+||haywin.training^
 ||haywin.vip^
+||haywinchinhhang.com^
 ||haywinvip.online^
 ||hb88.com^
 ||hb88.party^
@@ -1618,6 +1625,7 @@
 ||hb8887.com^
 ||hb88vn.co^
 ||hbet.club^
+||hbet.li^
 ||hbet.lv^
 ||hbet.net^
 ||hbet.pw^
@@ -2259,6 +2267,7 @@
 ||lu88.com^
 ||lu88.gdn^
 ||lu88.kim^
+||lu88.nz^
 ||lu88.pro^
 ||luck6.com^
 ||luck8.com^
@@ -2336,6 +2345,7 @@
 ||man79.org^
 ||man88.la^
 ||man88.net^
+||man88.ng^
 ||man88.pl^
 ||man88.pw^
 ||man88.top^
@@ -2575,6 +2585,7 @@
 ||nhat.bet^
 ||nhat.bh^
 ||nhat.bz^
+||nhat.cam^
 ||nhat.cx^
 ||nhat.game^
 ||nhat.is^
@@ -2851,6 +2862,8 @@
 ||rgames.org^
 ||ricbet.com^
 ||ricbet.win^
+||ricwin.moi^
+||ricwin.mx^
 ||ricwin.pw^
 ||ridika.com^
 ||rik.bet^
@@ -3155,7 +3168,9 @@
 ||sunwin.moi^
 ||sunwin.pro^
 ||sunwin.pw^
+||sunwin.show^
 ||sunwin.sx^
+||sunwinchinhhang.com^
 ||sunwinvn.club^
 ||suomikasino.com^
 ||supabets.com.gh^
@@ -3341,6 +3356,7 @@
 ||tin88.vip^
 ||tin888.club^
 ||tip.club^
+||tip88.app^
 ||tip88.com^
 ||tip88vn.me^
 ||tipbet.com^
@@ -3442,6 +3458,7 @@
 ||twinsbet.lt^
 ||tx1.vip^
 ||tx88.com^
+||tx88.fan^
 ||tx88.fun^
 ||tx88.fyi^
 ||tx88.in^
@@ -3540,6 +3557,8 @@
 ||vic.hair^
 ||vic.win^
 ||vic88.com^
+||vic88.link^
+||vic88.mx^
 ||vic88.net^
 ||victorwin555.com^
 ||vicwin.vip^
@@ -3654,6 +3673,7 @@
 ||vsports.pro^
 ||vsports88.asia^
 ||vstar79.com^
+||vu88.ac^
 ||vu88.com^
 ||vu88.de^
 ||vu88.in^
@@ -3846,6 +3866,7 @@
 ||xemdagacampuchia.com^
 ||xibet.com^
 ||xibet.fun^
+||xibet.vg^
 ||xibet.win^
 ||xingtou888.com^
 ||xinweide.com^
@@ -3931,6 +3952,7 @@
 ||zodiacu.com^
 ||zoplay.top^
 ||zowin.bh^
+||zowin.esq^
 ||zowin.im^
 ||zowin.is^
 ||zowin.kim^
@@ -3945,5 +3967,6 @@
 ||zowin.uno^
 ||zowin.vu^
 ||zowin.ws^
+||zowinchinhhang.online^
 ||zpisportbk.com^
 ! <EOF>
