@@ -1,5 +1,5 @@
 ! Title: PORN Allow/Block List (DNS)
-! Version: 1783185544
+! Version: 1783271944
 ||0.oldgyhogola.com^
 ||0.xd-cdn.com^
 ||007angels.com^
@@ -6829,6 +6829,15 @@
 ||cannonprod.com^
 ||cantender.com^
 ||caoporn.com.es^
+||cap3.autos^
+||cap3.beer^
+||cap3.click^
+||cap3.monster^
+||cap3.pics^
+||cap3.pro^
+||cap3.quest^
+||cap3.rest^
+||cap3.shop^
 ||capetinhas.blog^
 ||capsai-escort.de^
 ||captaincams.com^
@@ -9366,6 +9375,7 @@
 ||doctortapes.com^
 ||doctorvideos.net^
 ||doctorvoluptua.com^
+||doctruyen14.biz^
 ||doctruyen3qv.pro^
 ||doctruyen3qvn.com^
 ||doctruyennguoilonhay.blogspot.com^
@@ -16287,6 +16297,7 @@
 ||heo69.com^
 ||heo69.icu^
 ||heo69.top^
+||heodamtv.us^
 ||heodem.com^
 ||heohay.com^
 ||heohd.com^
@@ -20757,6 +20768,7 @@
 ||lauxanh.click^
 ||lauxanh.org^
 ||lauxanhthiendia.com^
+||lauxanhtv.biz^
 ||lawnjinsi.com^
 ||layerads.ero-advertising.com^
 ||layered-nylons.com^
@@ -32152,7 +32164,11 @@
 ||qlporn.com^
 ||qmature.com^
 ||qmaturetube.com^
+||qmh.quest^
+||qmh.rest^
 ||qmh.wtf^
+||qmhsex.cc^
+||qmhsex.online^
 ||qnewporn.com^
 ||qombol.com^
 ||qoo.ddns.info^
@@ -32202,7 +32218,9 @@
 ||quatvn.fit^
 ||quatvn.fun^
 ||quatvn.link^
+||quatvn.lol^
 ||quatvn.love^
+||quatvn.moi^
 ||quatvn.net^
 ||quatvn.online^
 ||quatvn.plus^
@@ -34111,6 +34129,7 @@
 ||sexcounter.com^
 ||sexcumvideos.com^
 ||sexcuto.net^
+||sexdacbiet.asia^
 ||sexdacbiet.pro^
 ||sexdam.top^
 ||sexdamvl.com^
@@ -34364,6 +34383,7 @@
 ||sexhot.club^
 ||sexhotarab.com^
 ||sexhotgames.com^
+||sexhothd.com^
 ||sexhoundlinks.com^
 ||sexhq.com^
 ||sexhq.me^
@@ -34705,6 +34725,7 @@
 ||sexphim3x.net^
 ||sexphim3x.pro^
 ||sexphim69.pro^
+||sexphimhays.pro^
 ||sexphimhds.net^
 ||sexphimtv.net^
 ||sexphimx.pro^
@@ -41854,6 +41875,7 @@
 ||vulcanhentai.org^
 ||vulgarmilf.com^
 ||vungtrom.xyz^
+||vungtromtv.blog^
 ||vuxm.com^
 ||vvkondaiah.com^
 ||vworldporn.com^
