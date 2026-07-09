@@ -1,5 +1,5 @@
 ! Title: PORN Allow/Block List (DNS)
-! Version: 1783531143
+! Version: 1783617543
 ||0.oldgyhogola.com^
 ||0.xd-cdn.com^
 ||007angels.com^
@@ -33730,7 +33730,6 @@
 ||sensualwriter.com^
 ||sensxxx.com^
 ||sentry-public.stripchat.com^
-||sentrypc.com^
 ||senzuri.tube^
 ||seo1.org^
 ||seoprofit.biz^

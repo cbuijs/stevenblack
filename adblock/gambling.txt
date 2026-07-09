@@ -1,5 +1,5 @@
 ! Title: GAMBLING Allow/Block List (DNS)
-! Version: 1783531142
+! Version: 1783617543
 ||007win.com^
 ||007win.org^
 ||007win.shop^
@@ -21,8 +21,10 @@
 ||11bet.gg^
 ||11bet.in^
 ||11bet.life^
+||11bet.lt^
 ||11bet.mobi^
 ||11bet.mx^
+||11bet.name^
 ||11bet.net^
 ||11bet.online^
 ||11bet.org^
@@ -46,6 +48,7 @@
 ||123b88.com^
 ||123bdy.com^
 ||123bhh.com^
+||123bong.vg^
 ||123win.pro^
 ||12b99.com^
 ||12bet.com^
@@ -139,6 +142,7 @@
 ||3bet.biz^
 ||3bet.host^
 ||3bet.la^
+||3bet.llc^
 ||3bet.ph^
 ||3bet.sh^
 ||3bet.ski^
@@ -206,6 +210,7 @@
 ||789betp.com^
 ||789betr.com^
 ||789betu.com^
+||789club.am^
 ||789club.ba^
 ||789club.biz^
 ||789club.com^
@@ -463,6 +468,7 @@
 ||ball88.fun^
 ||ball88.fyi^
 ||ball88.games^
+||ball88.lat^
 ||ball88.llc^
 ||ball88.men^
 ||ball88.mobi^
@@ -486,6 +492,7 @@
 ||bc.game^
 ||beatthebook.eu^
 ||bec88.com^
+||bec88.fun^
 ||belmont.ag^
 ||ben.bet^
 ||benbet.app^
@@ -764,6 +771,7 @@
 ||bom88.net^
 ||bom88.pics^
 ||bom88.plus^
+||bom88.shop^
 ||bombaybets.eu^
 ||bong88.cam^
 ||bong88.com^
@@ -930,6 +938,7 @@
 ||ciwox.com^
 ||clickngamble.ag^
 ||cloudbet.com^
+||club-gov.com^
 ||cm88.com^
 ||cmd368max.com^
 ||cmd368t.com^
@@ -1207,11 +1216,13 @@
 ||dreamjackpot.com^
 ||dreamvegas.com^
 ||dreamz.com^
+||du88.art^
 ||du88.cafe^
 ||du88.club^
 ||du88.com^
 ||du88.in^
 ||du88.info^
+||du88.life^
 ||du88.pro^
 ||dubaivn.vip^
 ||duckyluck.ag^
@@ -1220,6 +1231,7 @@
 ||dunder.com^
 ||duongdenkhungthanh.com^
 ||dutapoker.co^
+||dv88.city^
 ||dynabet.com.au^
 ||e-loterie.ma^
 ||e-lotto.be^
@@ -1388,7 +1400,9 @@
 ||fcb88.vip^
 ||fcb88d.com^
 ||fdj.fr^
+||febet.fun^
 ||febet.net^
+||febet.sh^
 ||feli88.com^
 ||fi.888casino.com^
 ||fi.casiplay.com^
@@ -1520,6 +1534,7 @@
 ||gemwin.my^
 ||gemwin.nz^
 ||gemwin.page^
+||gemwin.spot^
 ||gemwin.tax^
 ||gemwin.to^
 ||gemwin.tv^
@@ -1551,12 +1566,15 @@
 ||go8.pub^
 ||go8.pw^
 ||go88-vn.com^
+||go88.bayern^
 ||go88.ca^
 ||go88.club^
 ||go88.com^
 ||go88.contractors^
+||go88.food^
 ||go88.live^
 ||go88.luxury^
+||go88.me^
 ||go88.org^
 ||go88.study^
 ||go88.top^
@@ -1635,13 +1653,17 @@
 ||hb8875.com^
 ||hb8887.com^
 ||hb88vn.co^
+||hbet.ac^
 ||hbet.club^
+||hbet.fm^
 ||hbet.li^
 ||hbet.lv^
 ||hbet.net^
+||hbet.ph^
 ||hbet.pw^
 ||hbet.win^
 ||hcm66.com^
+||hd88.tv^
 ||hdbet.com^
 ||healthlottery.co.uk^
 ||heavenbet.com^
@@ -1682,6 +1704,7 @@
 ||hitclub.mk^
 ||hitclub.ml^
 ||hitclub.mu^
+||hitclub.mw^
 ||hitclub.pl^
 ||hitclub.pro^
 ||hitclub.salon^
@@ -1692,6 +1715,7 @@
 ||hitclub.tv^
 ||hitclub.vin^
 ||hitclub.win^
+||hitclub.yoga^
 ||hitclubchinhhang.com^
 ||hititbet.com^
 ||hl8thai8.com^
@@ -2274,12 +2298,15 @@
 ||lsbet690.com^
 ||lt991.com^
 ||lu88.ai^
+||lu88.ch^
 ||lu88.co^
 ||lu88.com^
 ||lu88.gdn^
 ||lu88.kim^
+||lu88.mn^
 ||lu88.nz^
 ||lu88.pro^
+||lu88.tw^
 ||luck6.com^
 ||luck8.com^
 ||luck8881.com^
@@ -2354,11 +2381,15 @@
 ||man.vip^
 ||man1.club^
 ||man79.org^
+||man88.biz^
+||man88.bz^
+||man88.co^
 ||man88.la^
 ||man88.net^
 ||man88.ng^
 ||man88.pl^
 ||man88.pw^
+||man88.sh^
 ||man88.top^
 ||man88.vip^
 ||man88.win^
@@ -2437,6 +2468,7 @@
 ||mig8fans.com^
 ||mig8vn.com^
 ||min88.com^
+||min88.ing^
 ||min88.me^
 ||minivn.com^
 ||miso88.boats^
@@ -2810,6 +2842,7 @@
 ||prontocasino.com^
 ||propawin.com^
 ||pub88.com^
+||pub88.day^
 ||pub88.win^
 ||pum88.com^
 ||punchbets.com^
@@ -2886,6 +2919,7 @@
 ||rik.win^
 ||rik6.com^
 ||rik88.life^
+||rikbet.red^
 ||rikstoto.no^
 ||rikvip.fun^
 ||rikvip.info^
@@ -3471,15 +3505,20 @@
 ||twin5568.com^
 ||twinsbet.lt^
 ||tx1.vip^
+||tx88.biz^
 ||tx88.com^
 ||tx88.fan^
 ||tx88.fun^
 ||tx88.fyi^
+||tx88.hot^
 ||tx88.in^
 ||tx88.ing^
+||tx88.la^
 ||tx88.llc^
+||tx88.now^
 ||tx88.onl^
 ||tx88.top^
+||tx88.vet^
 ||tydo88.com^
 ||u88.watch^
 ||u888.cc^
@@ -3496,8 +3535,12 @@
 ||uk-k8.com^
 ||uk88.club^
 ||uk88.com^
+||uk88.gd^
+||uk88.how^
+||uk88.mba^
 ||uk88.top^
 ||uk88.vip^
+||uk88.xin^
 ||ultimate-odds.com^
 ||unibet-42.com^
 ||unibet.co.uk^
@@ -3548,6 +3591,7 @@
 ||vb777.com^
 ||vb88.com^
 ||vb88.win^
+||vb88.zone^
 ||vbet.com^
 ||vbet88.fun^
 ||vebo.bet^
@@ -3592,6 +3636,7 @@
 ||vin88.net^
 ||vin88.pub^
 ||vin88.pw^
+||vin88.soy^
 ||vin88.sx^
 ||vin88.top^
 ||vin88.tv^
@@ -3693,12 +3738,18 @@
 ||vu88.com^
 ||vu88.de^
 ||vu88.in^
+||vu88.la^
+||vu88.live^
+||vu88.lv^
 ||vu88.net^
+||vu88.sh^
 ||vu88.tv^
+||vu88.ws^
 ||vua88.app^
 ||vua88.biz^
 ||vua88.club^
 ||vua88.com^
+||vua88.host^
 ||vuabai9.com^
 ||vuabai9vn.com^
 ||vuabet.com^
@@ -3881,8 +3932,10 @@
 ||xemdabanh.club^
 ||xemdagacampuchia.com^
 ||xibet.com^
+||xibet.ec^
 ||xibet.fun^
 ||xibet.vg^
+||xibet.vu^
 ||xibet.win^
 ||xingtou888.com^
 ||xinweide.com^
@@ -3892,6 +3945,7 @@
 ||xo88.com^
 ||xo88.fun^
 ||xo88.pro^
+||xo88.tw^
 ||xo88.us^
 ||xo88.win^
 ||xo88bet.com^
@@ -3930,6 +3984,7 @@
 ||yo88.is^
 ||yo88.ist^
 ||yo88.ml^
+||yo88.phd^
 ||yo88.pw^
 ||yo88.so^
 ||yo88.st^
@@ -3969,6 +4024,7 @@
 ||zoplay.top^
 ||zowin.bh^
 ||zowin.esq^
+||zowin.fan^
 ||zowin.im^
 ||zowin.is^
 ||zowin.kim^
