@@ -1,5 +1,5 @@
 ! Title: GAMBLING Allow/Block List (DNS)
-! Version: 1785172743
+! Version: 1785259143
 ||007win.com^
 ||007win.org^
 ||007win.shop^
@@ -224,6 +224,7 @@
 ||789club.gp^
 ||789club.ke^
 ||789club.mu^
+||789club.mw^
 ||789club.org^
 ||789club.sx^
 ||789club.vg^
@@ -1998,6 +1999,7 @@
 ||k88.club^
 ||k88.mobi^
 ||k88.moe^
+||k88.mov^
 ||k88.pro^
 ||k88.tel^
 ||k88.win^
@@ -3583,6 +3585,7 @@
 ||uk-k8.com^
 ||uk88.club^
 ||uk88.com^
+||uk88.dev^
 ||uk88.gd^
 ||uk88.how^
 ||uk88.mba^
@@ -3790,6 +3793,7 @@
 ||vu88.la^
 ||vu88.live^
 ||vu88.lv^
+||vu88.mobi^
 ||vu88.moe^
 ||vu88.mx^
 ||vu88.net^
@@ -3990,6 +3994,7 @@
 ||xibet.moi^
 ||xibet.now^
 ||xibet.nz^
+||xibet.pl^
 ||xibet.vg^
 ||xibet.vu^
 ||xibet.win^
