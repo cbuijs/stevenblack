@@ -1,5 +1,5 @@
 ! Title: PORN Allow/Block List (DNS)
-! Version: 1786468743
+! Version: 1786555144
 ||0.oldgyhogola.com^
 ||0.xd-cdn.com^
 ||007angels.com^
@@ -19462,6 +19462,7 @@
 ||javhdz.hot^
 ||javhdz.pro^
 ||javhdz.red^
+||javhdz.wine^
 ||javheroine.com^
 ||javhihi.com^
 ||javhihi.me^
@@ -32166,6 +32167,7 @@
 ||qlporn.com^
 ||qmature.com^
 ||qmaturetube.com^
+||qmh.garden^
 ||qmh.quest^
 ||qmh.rest^
 ||qmh.wtf^
