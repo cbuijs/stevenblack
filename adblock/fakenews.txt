@@ -1,5 +1,5 @@
 ! Title: FAKENEWS Allow/Block List (DNS)
-! Version: 1786900743
+! Version: 1786987142
 ||100percentfedup.com^
 ||20minutenews.com^
 ||21stcenturywire.com^
