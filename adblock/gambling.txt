@@ -1,5 +1,5 @@
 ! Title: GAMBLING Allow/Block List (DNS)
-! Version: 1787159943
+! Version: 1787246343
 ||007win.com^
 ||007win.org^
 ||007win.shop^
@@ -811,6 +811,7 @@
 ||bodog888.com^
 ||bodugi.com^
 ||bola88.com^
+||bolaku.sch.id^
 ||bom52.club^
 ||bom88.baby^
 ||bom88.casa^
@@ -2741,6 +2742,7 @@
 ||new88.today^
 ||new8884.com^
 ||new88w.com^
+||nextbola.ac.id^
 ||nextcasino.com^
 ||nextkhuyenmai.com^
 ||nhacai88.com^
@@ -4062,6 +4064,7 @@
 ||winclub.net^
 ||winmasters.com^
 ||winner.co.uk^
+||winning228.sch.id^
 ||winningft.com^
 ||wintbr.com^
 ||winvn.app^
