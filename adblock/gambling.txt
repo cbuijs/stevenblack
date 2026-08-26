@@ -1,5 +1,5 @@
 ! Title: GAMBLING Allow/Block List (DNS)
-! Version: 1787678342
+! Version: 1787764743
 ||007win.com^
 ||007win.org^
 ||007win.shop^
@@ -43,6 +43,7 @@
 ||11win.mx^
 ||11win.net^
 ||11win.skin^
+||11win.tips^
 ||11win.vin^
 ||11win.works^
 ||11zalo.com^
@@ -244,6 +245,7 @@
 ||789club.mw^
 ||789club.nu^
 ||789club.org^
+||789club.rich^
 ||789club.sx^
 ||789club.tr^
 ||789club.vg^
@@ -380,6 +382,7 @@
 ||9bet.band^
 ||9bet.blue^
 ||9bet.care^
+||9bet.diy^
 ||9bet.fund^
 ||9bet.green^
 ||9bet.mobi^
@@ -813,6 +816,7 @@
 ||bola88.com^
 ||bolaku.sch.id^
 ||bom52.club^
+||bom88.ac^
 ||bom88.baby^
 ||bom88.casa^
 ||bom88.city^
@@ -1285,6 +1289,7 @@
 ||du88.football^
 ||du88.guru^
 ||du88.health^
+||du88.house^
 ||du88.in^
 ||du88.info^
 ||du88.life^
@@ -2067,6 +2072,7 @@
 ||k88.mov^
 ||k88.nz^
 ||k88.pro^
+||k88.soy^
 ||k88.sx^
 ||k88.tel^
 ||k88.vc^
@@ -2404,6 +2410,7 @@
 ||lsbet690.com^
 ||lt991.com^
 ||lu88.ai^
+||lu88.bio^
 ||lu88.ch^
 ||lu88.co^
 ||lu88.com^
@@ -2515,6 +2522,7 @@
 ||man88.vip^
 ||man88.vu^
 ||man88.win^
+||man88.xin^
 ||manclub.live^
 ||manclub.us^
 ||manclub.vin^
@@ -2973,6 +2981,7 @@
 ||propawin.com^
 ||pub88.camera^
 ||pub88.channel^
+||pub88.charity^
 ||pub88.com^
 ||pub88.day^
 ||pub88.forum^
@@ -3654,6 +3663,7 @@
 ||tx88.fan^
 ||tx88.fashion^
 ||tx88.fun^
+||tx88.fund^
 ||tx88.fyi^
 ||tx88.games^
 ||tx88.hot^
@@ -3777,6 +3787,7 @@
 ||vic88.mx^
 ||vic88.net^
 ||vicclub.ac^
+||vicclub.id^
 ||vicclub.sh^
 ||victorwin555.com^
 ||vicwin.vip^
@@ -3911,6 +3922,7 @@
 ||vu88.ng^
 ||vu88.ro^
 ||vu88.sh^
+||vu88.tel^
 ||vu88.tv^
 ||vu88.vu^
 ||vu88.ws^
@@ -4113,6 +4125,7 @@
 ||xibet.pl^
 ||xibet.red^
 ||xibet.soy^
+||xibet.tax^
 ||xibet.uno^
 ||xibet.vg^
 ||xibet.vu^
@@ -4216,6 +4229,7 @@
 ||zowin.ng^
 ||zowin.ph^
 ||zowin.red^
+||zowin.ro^
 ||zowin.sh^
 ||zowin.srl^
 ||zowin.st^
