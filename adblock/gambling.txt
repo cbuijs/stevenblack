@@ -1,5 +1,5 @@
 ! Title: GAMBLING Allow/Block List (DNS)
-! Version: 1788196743
+! Version: 1788283143
 ||007win.com^
 ||007win.org^
 ||007win.shop^
@@ -36,6 +36,7 @@
 ||11wickets.com^
 ||11win.beer^
 ||11win.casa^
+||11win.fashion^
 ||11win.free^
 ||11win.link^
 ||11win.llc^
@@ -82,6 +83,7 @@
 ||188bet.vote^
 ||188betcn2.com^
 ||188goal.com^
+||188lux.com^
 ||188pscn2.com^
 ||188thethao.com^
 ||18bet.com^
@@ -386,6 +388,7 @@
 ||9bet.blue^
 ||9bet.care^
 ||9bet.diy^
+||9bet.es^
 ||9bet.fund^
 ||9bet.green^
 ||9bet.krd^
@@ -1289,6 +1292,7 @@
 ||du88.click^
 ||du88.club^
 ||du88.com^
+||du88.diy^
 ||du88.fashion^
 ||du88.football^
 ||du88.guru^
@@ -1763,6 +1767,7 @@
 ||hbet.srl^
 ||hbet.vc^
 ||hbet.win^
+||hbet.wtf^
 ||hcm66.com^
 ||hd88.tv^
 ||hdbet.com^
@@ -2078,6 +2083,7 @@
 ||k88.mov^
 ||k88.now^
 ||k88.nz^
+||k88.phd^
 ||k88.pro^
 ||k88.soy^
 ||k88.sx^
@@ -2417,6 +2423,7 @@
 ||lsbet690.com^
 ||lt991.com^
 ||lu88.ai^
+||lu88.app^
 ||lu88.bio^
 ||lu88.ch^
 ||lu88.co^
@@ -2518,6 +2525,7 @@
 ||man88.co^
 ||man88.io^
 ||man88.la^
+||man88.lat^
 ||man88.li^
 ||man88.net^
 ||man88.ng^
@@ -2681,6 +2689,7 @@
 ||mu922.com^
 ||mubet.best^
 ||mubet.dev^
+||mubet.help^
 ||mubet.info^
 ||mubet.media^
 ||mubet.sh^
@@ -2994,6 +3003,7 @@
 ||pub88.charity^
 ||pub88.college^
 ||pub88.com^
+||pub88.company^
 ||pub88.day^
 ||pub88.forum^
 ||pub88.ltd^
@@ -3562,6 +3572,8 @@
 ||tin88.top^
 ||tin88.vip^
 ||tin888.club^
+||tin888.net^
+||tin888.top^
 ||tip.club^
 ||tip88.app^
 ||tip88.com^
@@ -3667,6 +3679,7 @@
 ||twin5568.com^
 ||twinsbet.lt^
 ||tx1.vip^
+||tx88.band^
 ||tx88.biz^
 ||tx88.ch^
 ||tx88.com^
@@ -3800,6 +3813,7 @@
 ||vic88.net^
 ||vicclub.ac^
 ||vicclub.id^
+||vicclub.ink^
 ||vicclub.mx^
 ||vicclub.sh^
 ||victorwin555.com^
@@ -3920,6 +3934,7 @@
 ||vstar79.com^
 ||vu88.ac^
 ||vu88.best^
+||vu88.bio^
 ||vu88.com^
 ||vu88.cz^
 ||vu88.de^
@@ -4131,6 +4146,7 @@
 ||xemdagacampuchia.com^
 ||xibet.com^
 ||xibet.ec^
+||xibet.foo^
 ||xibet.fun^
 ||xibet.ing^
 ||xibet.moi^
@@ -4237,6 +4253,7 @@
 ||zowin.esq^
 ||zowin.fan^
 ||zowin.fm^
+||zowin.gripe^
 ||zowin.im^
 ||zowin.is^
 ||zowin.kim^
