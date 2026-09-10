@@ -1,5 +1,5 @@
 ! Title: PORN Allow/Block List (DNS)
-! Version: 1788974345
+! Version: 1789060744
 ||0.oldgyhogola.com^
 ||0.xd-cdn.com^
 ||007angels.com^
@@ -10831,6 +10831,7 @@
 ||extrime-list.com^
 ||exvid.gr^
 ||exvideos.fun^
+||exviet69.cc^
 ||exwifesexbook.com^
 ||exxxn.com^
 ||exxxtra.net^
@@ -20853,6 +20854,7 @@
 ||leche69.com^
 ||lecheanal.com^
 ||lechetube.com^
+||lechitax.com^
 ||lechzen.de^
 ||lederhosengangbang.com^
 ||leechporn.com^
@@ -25236,7 +25238,6 @@
 ||nichewebcams.com^
 ||nicole.totalsupercuties.com^
 ||nicolegravesvideo.com^
-||nicovideo.jp^
 ||nifty.org^
 ||nigga.com^
 ||night24.com^
@@ -34893,6 +34894,7 @@
 ||sexstationtv.com^
 ||sexstories-top.com^
 ||sexstories.com^
+||sexstories69.com^
 ||sexstoriespost.com^
 ||sexstream4free.com^
 ||sexsub.xyz^
@@ -43608,6 +43610,7 @@
 ||xneon.com^
 ||xngay.com^
 ||xnhau.blog^
+||xnhau.city^
 ||xnhau.io^
 ||xnhau.moe^
 ||xnightflight.com^
