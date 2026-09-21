@@ -1,5 +1,5 @@
 ! Title: PORN Allow/Block List (DNS)
-! Version: 1789924744
+! Version: 1790011144
 ||0.oldgyhogola.com^
 ||0.xd-cdn.com^
 ||007angels.com^
@@ -16316,9 +16316,11 @@
 ||heovl.cc^
 ||heovl.com^
 ||heovl.fun^
+||heovl.im^
 ||heovl.live^
 ||heovl.me^
 ||heovl.moe^
+||heovl.name^
 ||heovl.net^
 ||heovl.tube^
 ||heovl.tv^
@@ -19425,6 +19427,7 @@
 ||javhd.im^
 ||javhd.lol^
 ||javhd.moe^
+||javhd.mov^
 ||javhd.network^
 ||javhd.ninja^
 ||javhd.one^
@@ -19465,6 +19468,7 @@
 ||javhdsex.net^
 ||javhdvietsub.com^
 ||javhdworld.com^
+||javhdz.ac^
 ||javhdz.cam^
 ||javhdz.city^
 ||javhdz.fun^

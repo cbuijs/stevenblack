@@ -1,5 +1,5 @@
 ! Title: GAMBLING Allow/Block List (DNS)
-! Version: 1789924743
+! Version: 1790011143
 ||007win.com^
 ||007win.org^
 ||007win.shop^
@@ -36,6 +36,7 @@
 ||11wickets.com^
 ||11win.beer^
 ||11win.casa^
+||11win.dance^
 ||11win.fashion^
 ||11win.free^
 ||11win.link^
@@ -251,6 +252,7 @@
 ||789club.nu^
 ||789club.org^
 ||789club.rich^
+||789club.spa^
 ||789club.sx^
 ||789club.tr^
 ||789club.vg^
@@ -394,6 +396,7 @@
 ||9bet.green^
 ||9bet.krd^
 ||9bet.mobi^
+||9bet.navy^
 ||9bet.net^
 ||9bet.photo^
 ||9bet.pink^
@@ -832,10 +835,12 @@
 ||bolaku.sch.id^
 ||bom52.club^
 ||bom88.ac^
+||bom88.adqc.net^
 ||bom88.baby^
 ||bom88.casa^
 ||bom88.city^
 ||bom88.click^
+||bom88.coach^
 ||bom88.com^
 ||bom88.cool^
 ||bom88.diy^
@@ -1299,6 +1304,7 @@
 ||du88.blue^
 ||du88.cafe^
 ||du88.care^
+||du88.chat^
 ||du88.click^
 ||du88.club^
 ||du88.com^
@@ -1763,6 +1769,7 @@
 ||hbet.bio^
 ||hbet.club^
 ||hbet.cz^
+||hbet.esq^
 ||hbet.fm^
 ||hbet.la^
 ||hbet.li^
@@ -1836,6 +1843,7 @@
 ||hititbet.com^
 ||hl8thai8.com^
 ||hn8.link^
+||hoibannghien.com^
 ||hollywoodbets.net^
 ||hollywoodsportsbook.eu^
 ||homerunsportsbetting.com^
@@ -2087,6 +2095,7 @@
 ||k88.bz^
 ||k88.cam^
 ||k88.club^
+||k88.cyou^
 ||k88.day^
 ||k88.mba^
 ||k88.mobi^
@@ -2448,9 +2457,11 @@
 ||lu88.kim^
 ||lu88.lc^
 ||lu88.lv^
+||lu88.mba^
 ||lu88.mn^
 ||lu88.nz^
 ||lu88.pro^
+||lu88.pub^
 ||lu88.pw^
 ||lu88.tv^
 ||lu88.tw^
@@ -2702,6 +2713,7 @@
 ||mu92.com^
 ||mu922.com^
 ||mubet.best^
+||mubet.care^
 ||mubet.dev^
 ||mubet.help^
 ||mubet.info^
@@ -3025,6 +3037,7 @@
 ||pub88.ltd^
 ||pub88.monster^
 ||pub88.pw^
+||pub88.tips^
 ||pub88.win^
 ||pum88.com^
 ||punchbets.com^
@@ -3728,6 +3741,7 @@
 ||tx88.rest^
 ||tx88.top^
 ||tx88.vet^
+||tx88.vote^
 ||tx88.zone^
 ||tydo88.com^
 ||u88.watch^
@@ -3835,6 +3849,7 @@
 ||vic88.mx^
 ||vic88.net^
 ||vicclub.ac^
+||vicclub.at^
 ||vicclub.id^
 ||vicclub.ink^
 ||vicclub.mx^
@@ -3949,6 +3964,7 @@
 ||voltbet.com^
 ||voodoodreams.com^
 ||vpn8k.top^
+||vsbetvbs.net^
 ||vscore.bet^
 ||vscore.pro^
 ||vsports.bet^
@@ -4169,6 +4185,7 @@
 ||x8vn.top^
 ||xemdabanh.club^
 ||xemdagacampuchia.com^
+||xibet.cat^
 ||xibet.com^
 ||xibet.ec^
 ||xibet.foo^
