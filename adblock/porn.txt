@@ -1,5 +1,5 @@
 ! Title: PORN Allow/Block List (DNS)
-! Version: 1790183944
+! Version: 1790270344
 ||0.oldgyhogola.com^
 ||0.xd-cdn.com^
 ||007angels.com^
@@ -13522,6 +13522,7 @@
 ||gaigu.info^
 ||gaigu.net^
 ||gaigu.xyz^
+||gaigu18.blog^
 ||gaigu6.tv^
 ||gaigu7.tv^
 ||gaigu8.com^
@@ -16406,6 +16407,7 @@
 ||highwaydude.angelfire.com^
 ||highwebmedia.com^
 ||hihi18.com^
+||hihisex.app^
 ||hihisex.pro^
 ||hihisex.vip^
 ||hihitube.com^
@@ -19469,6 +19471,7 @@
 ||javhdvietsub.com^
 ||javhdworld.com^
 ||javhdz.ac^
+||javhdz.bz^
 ||javhdz.cam^
 ||javhdz.city^
 ||javhdz.fun^
@@ -27169,6 +27172,7 @@
 ||phim-javhd.pro^
 ||phim-sec.one^
 ||phim-set.info^
+||phim-sex.io^
 ||phim-sex.live^
 ||phim-sex.net^
 ||phim-sexhd.biz^
@@ -27238,6 +27242,7 @@
 ||phimkk.com^
 ||phimkk.me^
 ||phimkk.net^
+||phimkk.pro^
 ||phimkk.ws^
 ||phimloanluan.net^
 ||phimloanluan.org^
@@ -33084,10 +33089,12 @@
 ||rpcollegevasai.co.in^
 ||rphang.ac^
 ||rphang.cc^
+||rphang.com^
 ||rphang.dog^
 ||rphang.lat^
 ||rphang.luutrurp.com^
 ||rphang.me^
+||rphang.now^
 ||rphang.online^
 ||rphangcdn.com^
 ||rphangs.net^
@@ -34068,6 +34075,7 @@
 ||sexbright.com^
 ||sexbrunette.net^
 ||sexbulon.pro^
+||sexbuz.com^
 ||sexcam-24.cc^
 ||sexcam-chats.net^
 ||sexcam-shows.com^
@@ -34346,6 +34354,7 @@
 ||sexhay.biz^
 ||sexhay.vip^
 ||sexhay123.com^
+||sexhay247.net^
 ||sexhay2k.com^
 ||sexhay2k.me^
 ||sexhay3x.com^
@@ -45699,6 +45708,7 @@
 ||xxxmaza.net^
 ||xxxmemberchannels.com^
 ||xxxmemes.com^
+||xxxmeo.com^
 ||xxxmia.com^
 ||xxxmilf.org^
 ||xxxmilfporn.pro^

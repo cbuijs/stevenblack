@@ -1,5 +1,5 @@
 ! Title: GAMBLING Allow/Block List (DNS)
-! Version: 1790183943
+! Version: 1790270343
 ||007win.com^
 ||007win.org^
 ||007win.shop^
@@ -401,6 +401,7 @@
 ||9bet.photo^
 ||9bet.pink^
 ||9bet.rest^
+||9bet.vote^
 ||9bet.win^
 ||9bet.world^
 ||9e3c.com^
@@ -907,6 +908,7 @@
 ||bwingno1.com^
 ||bwingthethao.com^
 ||c04jilipark.com^
+||c168.biz^
 ||c54373.com^
 ||c54455.com^
 ||c547777.com^
@@ -2556,6 +2558,7 @@
 ||man88.pl^
 ||man88.pw^
 ||man88.sh^
+||man88.spa^
 ||man88.top^
 ||man88.vc^
 ||man88.vip^
@@ -2721,6 +2724,7 @@
 ||mubet.sh^
 ||mubet.talk^
 ||mubet.tips^
+||mubet.toys^
 ||mubet.video^
 ||mubet.vip^
 ||mubet.website^
@@ -3990,6 +3994,7 @@
 ||vu88.ng^
 ||vu88.ro^
 ||vu88.sh^
+||vu88.tax^
 ||vu88.tel^
 ||vu88.tv^
 ||vu88.vu^
