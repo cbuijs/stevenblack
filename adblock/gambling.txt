@@ -1,5 +1,5 @@
 ! Title: GAMBLING Allow/Block List (DNS)
-! Version: 1791393543
+! Version: 1791479943
 ||007win.com^
 ||007win.org^
 ||007win.shop^
@@ -35,6 +35,7 @@
 ||11betvnd.com^
 ||11wickets.com^
 ||11win.beer^
+||11win.care^
 ||11win.casa^
 ||11win.dance^
 ||11win.fashion^
@@ -401,6 +402,7 @@
 ||9bet.photo^
 ||9bet.pink^
 ||9bet.rest^
+||9bet.taxi^
 ||9bet.vote^
 ||9bet.win^
 ||9bet.world^
@@ -475,6 +477,7 @@
 ||ano88.top^
 ||anonibet.com^
 ||aoays.xyz^
+||api.9bet.build^
 ||apollobet.com^
 ||appbk8.com^
 ||appdaga.app^
@@ -1250,6 +1253,7 @@
 ||debet.mp^
 ||debet.mw^
 ||debet.net^
+||debet.press^
 ||debet.sc^
 ||debet.so^
 ||debet.st^
@@ -1260,6 +1264,7 @@
 ||debet.win^
 ||debet79.info^
 ||debet88.win^
+||debetchinhhang.com^
 ||debetchinhhang.top^
 ||deca.bet^
 ||deca88.com^
@@ -1324,6 +1329,7 @@
 ||du88.rent^
 ||du88.sh^
 ||du88.tips^
+||du88.tours^
 ||du88.wales^
 ||dubaivn.vip^
 ||duckyluck.ag^
@@ -2289,6 +2295,7 @@
 ||ku6110.net^
 ||ku6131.net^
 ||ku777bet.com^
+||ku88.accountant^
 ||ku88.fun^
 ||ku88.okinawa^
 ||ku88.pro^
@@ -2462,6 +2469,7 @@
 ||lu88.mba^
 ||lu88.mn^
 ||lu88.nz^
+||lu88.ooo^
 ||lu88.pro^
 ||lu88.pub^
 ||lu88.pw^
@@ -2718,6 +2726,7 @@
 ||mubet.best^
 ||mubet.care^
 ||mubet.dev^
+||mubet.hair^
 ||mubet.help^
 ||mubet.info^
 ||mubet.media^
@@ -3298,6 +3307,7 @@
 ||soc99.com^
 ||socalsportbook.com^
 ||society.gg^
+||socket.9bet.build^
 ||sodo.bond^
 ||sodo.host^
 ||sodo02.com^
@@ -3411,6 +3421,7 @@
 ||sun52.live^
 ||sun52.tv^
 ||sun6.win^
+||sun88.sc^
 ||sunbets.co.uk^
 ||sunwin.af^
 ||sunwin.club^
@@ -3720,6 +3731,7 @@
 ||tx1.vip^
 ||tx88.band^
 ||tx88.biz^
+||tx88.boston^
 ||tx88.ch^
 ||tx88.com^
 ||tx88.download^
@@ -3854,6 +3866,7 @@
 ||vic88.net^
 ||vicclub.ac^
 ||vicclub.at^
+||vicclub.host^
 ||vicclub.id^
 ||vicclub.ink^
 ||vicclub.mx^
@@ -4003,6 +4016,7 @@
 ||vua88.biz^
 ||vua88.club^
 ||vua88.com^
+||vua88.food^
 ||vua88.host^
 ||vuabai9.com^
 ||vuabai9vn.com^
@@ -4170,6 +4184,7 @@
 ||worldsportsbetting.co.za^
 ||worldstar.co.ug^
 ||worldwidegamble.com^
+||wp.9bet.build^
 ||wtfskins.com^
 ||wunderino.com^
 ||ww88.club^
@@ -4252,6 +4267,7 @@
 ||yd88c.com^
 ||yeticasino.com^
 ||yo88.ae^
+||yo88.cafe^
 ||yo88.cool^
 ||yo88.is^
 ||yo88.ist^
@@ -4265,6 +4281,7 @@
 ||yo88.vu^
 ||yo88.win^
 ||yo88chinhhang.com^
+||yo88chinhhang.win^
 ||yo88vn.com^
 ||yobetit.com^
 ||youwager.eu^
