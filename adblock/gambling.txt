@@ -1,5 +1,5 @@
 ! Title: GAMBLING Allow/Block List (DNS)
-! Version: 1791998343
+! Version: 1792084743
 ||007win.com^
 ||007win.org^
 ||007win.shop^
@@ -47,6 +47,7 @@
 ||11win.net^
 ||11win.skin^
 ||11win.style^
+||11win.support^
 ||11win.tips^
 ||11win.vin^
 ||11win.works^
@@ -1316,6 +1317,7 @@
 ||du88.club^
 ||du88.com^
 ||du88.diy^
+||du88.estate^
 ||du88.fashion^
 ||du88.football^
 ||du88.guru^
@@ -2296,6 +2298,7 @@
 ||ku6131.net^
 ||ku777bet.com^
 ||ku88.accountant^
+||ku88.cool^
 ||ku88.fun^
 ||ku88.okinawa^
 ||ku88.pro^
@@ -2728,6 +2731,7 @@
 ||mubet.dev^
 ||mubet.hair^
 ||mubet.help^
+||mubet.icu^
 ||mubet.info^
 ||mubet.media^
 ||mubet.sh^
@@ -3730,6 +3734,7 @@
 ||twinsbet.lt^
 ||tx1.vip^
 ||tx88.band^
+||tx88.barcelona^
 ||tx88.biz^
 ||tx88.boston^
 ||tx88.ch^
@@ -3871,6 +3876,7 @@
 ||vicclub.ink^
 ||vicclub.mx^
 ||vicclub.sh^
+||vicclub.trade^
 ||victorwin555.com^
 ||vicwin.vip^
 ||videoslots.com^
@@ -4016,6 +4022,7 @@
 ||vua88.biz^
 ||vua88.club^
 ||vua88.com^
+||vua88.diy^
 ||vua88.food^
 ||vua88.host^
 ||vuabai9.com^

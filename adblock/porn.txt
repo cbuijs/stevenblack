@@ -1,5 +1,5 @@
 ! Title: PORN Allow/Block List (DNS)
-! Version: 1791998344
+! Version: 1792084743
 ||0.oldgyhogola.com^
 ||0.xd-cdn.com^
 ||007angels.com^
