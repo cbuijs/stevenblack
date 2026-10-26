@@ -1,5 +1,5 @@
 ! Title: PORN Allow/Block List (DNS)
-! Version: 1792952344
+! Version: 1793038743
 ||0.oldgyhogola.com^
 ||0.xd-cdn.com^
 ||007angels.com^
@@ -19478,6 +19478,8 @@
 ||javhdz.fun^
 ||javhdz.hot^
 ||javhdz.la^
+||javhdz.link^
+||javhdz.one^
 ||javhdz.pro^
 ||javhdz.pw^
 ||javhdz.red^
@@ -41617,6 +41619,7 @@
 ||vlsex.pro^
 ||vlsex88.one^
 ||vlxphim.me^
+||vlxvn.beer^
 ||vlxx-phimsex.com^
 ||vlxx-vip.com^
 ||vlxx.ac^
