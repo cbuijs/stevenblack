@@ -1,5 +1,5 @@
 ! Title: PORN Allow/Block List (DNS)
-! Version: 1794593944
+! Version: 1794680344
 ||0.oldgyhogola.com^
 ||0.xd-cdn.com^
 ||007angels.com^
@@ -16303,6 +16303,7 @@
 ||heo69.com^
 ||heo69.icu^
 ||heo69.top^
+||heoav.com^
 ||heodamtv.us^
 ||heodem.com^
 ||heohay.com^
@@ -16329,6 +16330,7 @@
 ||heovl1.com^
 ||heovl1.net^
 ||heovlx.com^
+||heoxvn.blog^
 ||her-calves-muscle-legs.com^
 ||her.porn^
 ||her69.net^
@@ -19480,6 +19482,7 @@
 ||javhdz.la^
 ||javhdz.link^
 ||javhdz.one^
+||javhdz.page^
 ||javhdz.pro^
 ||javhdz.pw^
 ||javhdz.red^
@@ -19537,6 +19540,7 @@
 ||javmoviecollection.site^
 ||javmovies.pro^
 ||javmovs.com^
+||javmup.xin^
 ||javne.net^
 ||javneon.tv^
 ||javnew.net^
@@ -20409,6 +20413,7 @@
 ||kiwi69.com^
 ||kiwiclip.com^
 ||kizzboy.com^
+||kkphimheo.bond^
 ||kktblrnude.club^
 ||kladoffka.com^
 ||klaksonplus.ru^
@@ -27225,6 +27230,7 @@
 ||phimhentai.info^
 ||phimhentai.xyz^
 ||phimhentaiz.org^
+||phimheo.bar^
 ||phimheo.biz^
 ||phimheo.fun^
 ||phimheo.net^
@@ -41620,6 +41626,10 @@
 ||vlsex88.one^
 ||vlxphim.me^
 ||vlxvn.beer^
+||vlxvn.bond^
+||vlxvn.com^
+||vlxvn.fans^
+||vlxvn.xin^
 ||vlxx-phimsex.com^
 ||vlxx-vip.com^
 ||vlxx.ac^
