@@ -1,5 +1,5 @@
 ! Title: PORN Allow/Block List (DNS)
-! Version: 1795803544
+! Version: 1795889944
 ||0.oldgyhogola.com^
 ||0.xd-cdn.com^
 ||007angels.com^
@@ -20564,6 +20564,7 @@
 ||kronwerk.ru^
 ||krutiindia.in^
 ||krx18.com^
+||krx18.me^
 ||ks-p.com^
 ||ksaksaksa.com^
 ||ksk.moe^
@@ -25428,6 +25429,7 @@
 ||ns99.info^
 ||nsfw-gif.net^
 ||nsfw-pics.com^
+||nsfw.com^
 ||nsfw.exchange^
 ||nsfw.irish^
 ||nsfw.reddit.com^
@@ -27532,6 +27534,7 @@
 ||photochki.pro^
 ||photocinenews.com^
 ||photoclub.top^
+||photodromm.com^
 ||photofamily.top^
 ||photofun.pw^
 ||photomodels.com.pt^
